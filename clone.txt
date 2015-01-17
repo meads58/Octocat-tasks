@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+The git clone command copies the entire repository into a new location. 

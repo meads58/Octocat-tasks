@@ -1,1 +1,4 @@
-Explain what git branch does, in your own words
+When you branch you take a cut of the code from a commit to create a named divergence in the code. This new
+branch has all previous code up to the point of the cut and is independent of any other branches. New changes
+can be committed and when ready merged back into the master branch from where it was cut.
+
